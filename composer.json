@@ -39,7 +39,7 @@
     },
     "extra": {
       "installer-paths": {
-        "data/phalapi": ["wgq/kernal"]
+        "test/data/phalapi": ["wgq/kernal"]
       }
     }
 }
