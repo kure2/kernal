@@ -36,5 +36,10 @@
     "psr-4": {
       "PhalApi\\": "src"
     }
-  }
+    },
+    "extra": {
+      "installer-paths": {
+        "vendor/phalapi": ["wgq/kernal"]
+      }
+    }
 }
